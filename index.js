@@ -25,7 +25,7 @@ app.post('/send',upload.any(),(req,res)=>{
     x = setCharAt(x,x.length-1,')$')
     res.send(x)
 })
-app.listen(8000,()=>{
+app.listen(4000,()=>{
     console.log('server start port 4000')
 })
 
