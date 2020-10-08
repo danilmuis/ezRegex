@@ -12,7 +12,7 @@ app.set('view engine','hbs')
 app.get('/',(req,res)=>{
     res.render('index')
 })
-app.post('/send',upload.any(),(req,res)=>{
+app.post('/',upload.any(),(req,res)=>{
     //console.log(req.files)
     let t = new Trie
     var data = (req.files[0].buffer).toString('utf8')
@@ -23,7 +23,11 @@ app.post('/send',upload.any(),(req,res)=>{
     //console.log(x[0]+x[x.length-1])
     x = setCharAt(x,0,'^(')
     x = setCharAt(x,x.length-1,')$')
-    res.send(x)
+    //res.send(x)
+    res.render('index',{
+        'showData' : true,
+        'data' : x
+    })
 })
 app.listen(4000,()=>{
     console.log('server start port 4000')
