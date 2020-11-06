@@ -16,11 +16,14 @@ app.post('/',upload.any(),(req,res)=>{
     //console.log(req.files)
     let t = new Trie
     var data = (req.files[0].buffer).toString('utf8')
+    data = data.split('\r\n')
     for(i in data){
-        t.add(i)
+        if(data[i] != ""){
+            t.add(data[i]);
+        }
+        
     }
     var x = (t.toRegExp()).toString('utf8')
-    //console.log(x[0]+x[x.length-1])
     x = setCharAt(x,0,'^(')
     x = setCharAt(x,x.length-1,')$')
     //res.send(x)

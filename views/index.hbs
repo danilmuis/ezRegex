@@ -94,13 +94,13 @@
     <script type="text/javascript">
         function getData(){
             var reader = new FileReader();
-                var file = document.getElementById("text").files[0];
+            var file = document.getElementById("text").files[0];
+            
+            reader.readAsDataURL(file);
+            reader.onload = function (e){
                 
-                reader.readAsDataURL(file);
-                reader.onload = function (e){
-                    
-                    document.getElementById("inputText").innerHTML = file.name;
-                }
+                document.getElementById("inputText").innerHTML = file.name;
+            }
     
         }
     </script>
