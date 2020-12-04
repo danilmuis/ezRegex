@@ -1,589 +1,589 @@
-KODE_KPP,NAMA_KPP
-010,KanWil DJP Nanggroe Aceh Darussalam
-020,KanWil DJP Sumatera Utara I
-030,KanWil DJP Sumatera Utara II
-040,KanWil DJP Riau
-050,KanWil DJP Sumatra Barat dan Jambi
-060,KanWil DJP Sumatra Selatan dan Kep. Bangka Belitung
-070,KanWil DJP Bengkulu dan Lampung
-080,KanWil DJP Jakarta Pusat
-090,KanWil DJP Jakarta Barat
-100,KanWil DJP Jakarta Selatan I
-110,KanWil DJP Jakarta Timur
-120,KanWil DJP Jakarta Utara
-130,KanWil DJP Jakarta Khusus
-140,KanWil DJP Banten
-150,KanWil DJP Jawa Barat I
-160,KanWil DJP Jawa Barat II
-170,KanWil DJP Jawa Tengah I
-180,KanWil DJP Jawa Tengah II
-190,KanWil DJP Daerah Istimewa Yogyakarta
-200,KanWil DJP Jawa Timur I
-210,KanWil DJP Jawa Timur II
-220,KanWil DJP Jawa Timur III
-230,KanWil DJP Kalimantan Barat
-240,KanWil DJP Kalimantan Selatan Dan Kalimantan Tengah
-250,KanWil DJP Kalimantan Timur dan Utara
-260,KanWil DJP Sulawesi Selatan, Barat dan Tenggara
-270,KanWil DJP Sulawesi Utara, Tengah, Gorontalo Dan Maluku Utara (SULUTTENGGO DAN MALUT) 
-280,KanWil DJP Bali
-290,KanWil DJP Nusa Tenggara
-300,KanWil DJP Papua Dan Maluku
-310,KanWil DJP Wajib Pajak Besar
-320,KanWil DJP JAKARTA SELATAN II
-330,KanWil DJP JAWA BARAT III
-340,KanWil  DJP KEPULAUAN RIAU 
-001,KPP Pratama Jakarta Matraman
-002,KPP Pratama Jakarta Jatinegara
-003,KPP Pratama Jakarta Pulogadung
-004,KPP Pratama Jakarta Cakung Satu
-005,KPP Pratama Jakarta Kramat Jati
-006,KPP Pratama Jakarta Cakung Dua
-007,KPP Madya Jakarta Timur
-008,KPP Pratama Jakarta Duren Sawit
-009,KPP Pratama Jakarta Pasar Rebo
-011,KPP Pratama Jakarta Setiabudi Satu
-012,KPP Pratama Jakarta Kebayoran Baru Satu
-013,KPP Pratama Jakarta Kebayoran Lama
-014,KPP Pratama Jakarta Mampang Prapatan
-015,KPP Pratama Jakarta Tebet
-016,KPP Pratama Jakarta Cilandak
-017,KPP Pratama Jakarta Pasar Minggu
-018,KPP Pratama Jakarta Setiabudi Dua
-019,KPP Pratama Jakarta Kebayoran Baru Dua
-021,KPP Pratama Jakarta Menteng Satu
-022,KPP Pratama Jakarta Tanah Abang Satu
-023,KPP Pratama Jakarta Senen
-024,KPP Pratama Jakarta Cempaka Putih
-025,KPP Pratama Jakarta Gambir Satu
-026,KPP Pratama Jakarta Sawah Besar Satu
-027,KPP Pratama Jakarta Kemayoran
-028,KPP Pratama Jakarta Gambir Dua
-029,KPP Pratama Jakarta Gambir Tiga
-031,KPP Pratama Jakarta Palmerah
-032,KPP Pratama Jakarta Tamansari Satu
-033,KPP Pratama Jakarta Tambora
-034,KPP Pratama Jakarta Cengkareng
-035,KPP Pratama Jakarta Kebon Jeruk Satu
-036,KPP Pratama Jakarta Grogol Petamburan
-037,KPP Pratama Jakarta Tamansari Dua
-038,KPP Madya Jakarta Barat
-039,KPP Pratama Jakarta Kebon Jeruk Dua 
-041,KPP Pratama Jakarta Penjaringan
-042,KPP Pratama Jakarta Tanjung Priok
-043,KPP Pratama Jakarta Kelapa Gading
-044,KPP Pratama Jakarta Pademangan
-045,KPP Pratama Jakarta Koja
-046,KPP Madya Jakarta Utara
-047,KPP Pratama Jakarta Pluit
-048,KPP Pratama Jakarta Sunter
-051,KPP Wajib Pajak Besar Tiga
-052,KPP Penanaman Modal Asing Satu
-053,KPP Badan dan Orang Asing
-054,KPP Perusahaan Masuk Bursa
-055,KPP Penanaman Modal Asing Dua
-056,KPP Penanaman Modal Asing Tiga
-057,KPP Penanaman Modal Asing Empat
-058,KPP Penanaman Modal Asing Lima
-059,KPP Penanaman Modal Asing Enam
-061,KPP Pratama Jakarta Pancoran
-062,KPP Madya Jakarta Selatan I
-063,KPP Pratama Jakarta Setiabudi Tiga
-064,KPP Pratama Jakarta Kebayoran Baru Tiga
-065,KPP Pratama Jakarta Kebayoran Baru Empat
-066,KPP Pratama Jakarta Pesanggrahan
-067,KPP Pratama Jakarta Setia Budi Empat
-071,KPP Pratama Jakarta Menteng Dua
-072,KPP Pratama Jakarta Tanah Abang Dua
-073,KPP Madya Jakarta Pusat
-074,KPP Pratama Jakarta Gambir Empat
-075,KPP Pratama Jakarta Sawah Besar Dua
-076,KPP Pratama Jakarta Menteng Tiga
-077,KPP Pratama Jakarta Tanah Abang Tiga
-081,KPP Minyak dan Gas Bumi
-085,KPP Pratama Jakarta Kalideres
-086,KPP Pratama Jakarta Kembangan
-091,KPP WP Besar Satu
-092,KPP Wajib Pajak Besar Dua
-093,KPP Wajib Pajak Besar Empat
-101,KPP Pratama Banda Aceh
-102,KPP Pratama Lhokseumawe
-103,KPP Pratama Meulaboh
-104,KPP Pratama Bireuen
-105,KPP Pratama Langsa
-106,KPP Pratama Tapak Tuan
-107,KPP Pratama Subulussalam
-108,KPP Pratama Aceh Besar
-111,KPP Pratama Medan Barat
-112,KPP Pratama Medan Belawan
-113,KPP Pratama Medan Timur
-114,KPP Pratama Tebing Tinggi
-115,KPP Pratama Kisaran
-116,KPP Pratama Rantau Prapat
-117,KPP Pratama Pematang Siantar
-118,KPP Pratama Padang Sidempuan
-119,KPP Pratama Binjai
-121,KPP Pratama Medan Polonia
-122,KPP Pratama Medan Kota
-123,KPP Madya Medan
-124,KPP Pratama Medan Petisah
-125,KPP Pratama Lubuk Pakam
-126,KPP Pratama Sibolga
-127,KPP Pratama Balige 
-128,KPP Pratama Kabanjahe
-201,KPP Pratama Padang Satu
-202,KPP Pratama Bukittinggi
-203,KPP Pratama Solok
-204,KPP Pratama Payakumbuh
-205,KPP Pratama Padang Dua
-211,KPP Pratama Pekanbaru Senapelan
-212,KPP Pratama Dumai
-213,KPP Pratama Rengat
-214,KPP Pratama Tanjung Pinang
-215,KPP Pratama Batam
-215,KPP Pratama Batam Utara
-216,KPP Pratama Pekanbaru Tampan
-217,KPP Madya Batam
-218,KPP Madya Pekanbaru
-219,KPP Pratama Bengkalis
-221,KPP Pratama Bangkinang
-222,KPP Pratama Pangkalan Kerinci
-223,KPP Pratama Tanjung Balai Karimun
-224,KPP Pratama Bintan
-225,KPP Pratama Batam Selatan
-301,KPP Pratama Palembang Ilir Timur
-302,KPP Pratama Baturaja
-303,KPP Pratama Lubuk Linggau
-304,KPP Pratama Pangkal Pinang
-305,KPP Pratama Tanjung Pandan
-306,KPP Pratama Palembang Seberang Ulu
-307,KPP Pratama Palembang Ilir Barat
-308,KPP Madya Palembang
-309,KPP Pratama Lahat
-311,KPP Pratama Bengkulu
-312,KPP Pratama Kayu Agung
-313,KPP Pratama Prabumulih
-314,KPP Pratama Sekayu
-315,KPP Pratama Bangka
-321,KPP Pratama Metro
-322,KPP Pratama Tanjung Karang
-323,KPP Pratama Kedaton
-324,KPP Pratama Teluk Betung
-325,KPP Pratama Natar
-326,KPP Pratama Kotabumi
-327,KPP Pratama Curup
-328,KPP Pratama Argamakmur
-331,KPP Pratama Jambi Telanaipura
-332,KPP Pratama Muara Bungo
-333,KPP Pratama Bangko
-334,KPP Pratama Kuala Tungkal
-335,KPP Pratama Jambi Pelayangan
-401,KPP Pratama Serang Barat
-402,KPP Pratama Tangerang Barat
-403,KPP Pratama Cibinong
-404,KPP Pratama Bogor
-405,KPP Pratama Sukabumi
-406,KPP Pratama Cianjur
-407,KPP Pratama Bekasi Utara
-408,KPP Pratama Karawang Utara
-409,KPP Pratama Purwakarta
-411,KPP Pratama Serpong
-412,KPP Pratama Depok Cimanggis
-413,KPP Pratama Cikarang Selatan
-414,KPP Pratama Cikarang Utara
-415,KPP Madya Tangerang
-416,KPP Pratama Tangerang Timur
-417,KPP Pratama Cilegon
-418,KPP Pratama Kosambi
-419,KPP Pratama Pandeglang
-421,KPP Pratama Cimahi
-422,KPP Pratama Bandung Tegallega
-423,KPP Pratama Bandung Cibeunying
-424,KPP Pratama Bandung Karees
-425,KPP Pratama Tasikmalaya
-426,KPP Pratama Cirebon Satu
-427,KPP Pratama Bekasi Barat
-428,KPP Pratama Bandung Bojonagara
-429,KPP Pratama Bandung Cicadas
-431,KPP Madya Bekasi
-432,KPP Pratama Bekasi Selatan
-433,KPP Pratama Karawang Selatan
-434,KPP Pratama Ciawi
-435,KPP Pratama Cibitung
-436,KPP Pratama Cileungsi
-437,KPP Pratama Indramayu
-438,KPP Pratama Kuningan
-439,KPP Pratama Subang
-441,KPP Madya Bandung
-442,KPP Pratama Ciamis
-443,KPP Pratama Garut
-444,KPP Pratama Majalaya
-445,KPP Pratama Soreang
-446,KPP Pratama Sumedang
-447,KPP Pratama Pondok Gede
-448,KPP Pratama Depok Sawangan
-449,KPP Madya Bogor
-451,KPP Pratama Tigaraksa
-452,KPP Pratama Cikupa
-453,KPP Pratama Pondok Aren
-454,KPP Pratama Serang Timur
-455,KPP Cirebon Dua
-501,KPP Pratama Tegal
-502,KPP Pratama Pekalongan
-503,KPP Pratama Semarang Barat
-504,KPP Pratama Semarang Timur
-505,KPP Pratama Salatiga
-506,KPP Pratama Kudus
-507,KPP Pratama Pati
-508,KPP Pratama Semarang Selatan
-509,KPP Pratama Semarang Tengah Dua
-511,KPP Madya Semarang
-512,KPP Pratama Semarang Tengah Satu
-513,KPP Pratama Batang
-514,KPP Pratama Blora
-515,KPP Pratama Demak
-516,KPP Pratama Jepara
-517,KPP Pratama Semarang Candisari
-518,KPP Pratama Semarang Gayamsari
-521,KPP Pratama Purwokerto
-522,KPP Pratama Cilacap
-523,KPP Pratama Kebumen
-524,KPP Pratama Magelang
-525,KPP Pratama Klaten
-526,KPP Pratama Surakarta
-527,KPP Pratama Boyolali
-528,KPP Pratama Karanganyar
-529,KPP Pratama Purbalingga
-531,KPP Pratama Purworejo
-532,KPP Pratama Sukoharjo
-533,KPP Pratama Temanggung
-541,KPP Pratama Yogyakarta
-542,KPP Pratama Sleman
-543,KPP Pratama Bantul
-544,KPP Pratama Wates
-545,KPP Pratama Wonosari
-601,KPP Pratama Bojonegoro
-602,KPP Pratama Mojokerto
-603,KPP Pratama Sidoarjo Barat
-604,KPP Pratama Surabaya Sukomanunggal
-605,KPP Pratama Surabaya Krembangan
-606,KPP Pratama Surabaya Gubeng
-607,KPP Pratama Surabaya Tegalsari
-608,KPP Pratama Pamekasan
-609,KPP Pratama Surabaya Wonocolo
-611,KPP Pratama Surabaya Genteng
-612,KPP Pratama Gresik Utara
-613,KPP Pratama Surabaya Pabean Cantikan
-614,KPP Pratama Surabaya Sawahan
-615,KPP Pratama Surabaya Rungkut
-616,KPP Pratama Surabaya Simokerto
-617,KPP Pratama Sidoarjo Selatan
-618,KPP Pratama Surabaya Karangpilang
-619,KPP Pratama Surabaya Mulyorejo
-621,KPP Pratama Madiun
-622,KPP Pratama Kediri
-623,KPP Pratama Malang Selatan
-624,KPP Pratama Pasuruan
-625,KPP Pratama Probolinggo
-626,KPP Pratama Jember
-627,KPP Pratama Banyuwangi
-628,KPP Pratama Batu
-629,KPP Pratama Tulungagung
-631,KPP Madya Surabaya
-641,KPP Madya Sidoarjo
-642,KPP Pratama Gresik Selatan
-643,KPP Pratama Sidoarjo Utara
-644,KPP Pratama Bangkalan
-645,KPP Pratama Lamongan
-646,KPP Pratama Ngawi
-647,KPP Pratama Ponorogo
-648,KPP Pratama Tuban
-649,KPP Pratama Jombang
-651,KPP Madya Malang
-652,KPP Pratama Malang Utara
-653,KPP Pratama Blitar
-654,KPP Pratama Kepanjen
-655,KPP Pratama Pare
-656,KPP Pratama Situbondo
-657,KPP Pratama Singosari
-701,KPP Pratama Pontianak Barat
-702,KPP Pratama Singkawang
-703,KPP Pratama Ketapang
-704,KPP Pratama Mempawah
-705,KPP Pratama Sanggau
-706,KPP Pratama Sintang
-707,KPP Pratama Pontianak Timur
-711,KPP Pratama Palangkaraya
-712,KPP Pratama Sampit
-713,KPP Pratama Pangkalan Bun
-714,KPP Pratama Muara Teweh
-721,KPP Pratama Balikpapan Barat
-722,KPP Pratama Samarinda Ilir
-723,KPP Pratama Tarakan
-724,KPP Pratama Bontang
-725,KPP Madya Balikpapan
-726,KPP Pratama Penajam
-727,KPP Pratama Tanjung Redeb
-728,KPP Pratama Tenggarong
-729,KPP Pratama Balikpapan Timur
-731,KPP Pratama Banjarmasin Selatan
-732,KPP Pratama Banjarbaru
-733,KPP Pratama Barabai
-734,KPP Pratama Batulicin
-735,KPP Pratama Tanjung
-736,KPP Pratama Banjarmasin Utara
-801,KPP Pratama Makassar Utara
-802,KPP Pratama Parepare
-803,KPP Pratama Palopo
-804,KPP Pratama Makassar Barat
-805,KPP Pratama Makassar Selatan
-806,KPP Pratama Bulukumba
-807,KPP Pratama Bantaeng
-808,KPP Pratama Watampone
-809,KPP Pratama Maros
-811,KPP Pratama Kendari
-812,KPP Madya Makassar
-813,KPP Pratama Majene
-814,KPP Pratama Mamuju
-815,KPP Pratama Kolaka
-816,KPP Pratama Bau-Bau
-821,KPP Pratama Manado
-822,KPP Pratama Gorontalo
-823,KPP Pratama Bitung
-824,KPP Pratama Kotamobagu
-825,KPP Pratama Tahuna
-831,KPP Pratama Palu
-832,KPP Pratama Luwuk
-833,KPP Pratama Poso
-834,KPP Pratama Toli-Toli
-901,KPP Pratama Denpasar Barat
-902,KPP Pratama Singaraja
-903,KPP Pratama Denpasar Timur
-904,KPP Madya Denpasar
-905,KPP Pratama Badung Selatan
-906,KPP Pratama Badung Utara
-907,KPP Pratama Gianyar
-908,KPP Pratama Tabanan
-911,KPP Pratama Mataram Barat
-912,KPP Pratama Raba Bima
-913,KPP Pratama Sumbawa Besar
-914,KPP Pratama Mataram Timur
-915,KPP Pratama Praya
-921,KPP Pratama Maumere
-922,KPP Pratama Kupang
-923,KPP Pratama Ende
-924,KPP Pratama Ruteng
-925,KPP Pratama Atambua
-926,KPP Pratama Waingapu
-941,KPP Pratama Ambon
-942,KPP Pratama Ternate
-943,KPP Pratama Tobelo
-951,KPP Pratama Sorong
-952,KPP Pratama Jayapura
-953,KPP Pratama Timika
-954,KPP Pratama Biak
-955,KPP Pratama Manokwari
-956,KPP Pratama Merauke
-,KP2KP Kutacane
-,KP2KP Karang Baru
-,KP2KP Blangkejeran
-,KP2KP Lhoksukon
-,KP2KP Calang
-,KP2KP Blang Pidie
-,KP2KP Piru
-,KP2KP Suka Makmur
-,KP2KP Singkil
-,KP2KP Kerobokan
-,KP2KP Takengon
-,KP2KP Negara
-,KP2KP Sigli
-,KP2KP Amlapura
-,KP2KP Ubud
-,KP2KP Sabang
-,KP2KP Siak Sri Indrapura
-,KP2KP Bagan Siapiapi
-,KP2KP Daik
-,KP2KP Duri
-,KP2KP Pasir Pangarayan
-,KP2KP Ranai
-,KP2KP Selat Panjang
-,KP2KP Sinabang
-,KP2KP Teluk Kuantan
-,KP2KP Rimba Raya
-,KP2KP Tembilahan
-,KP2KP Caruban
-,KP2KP Magetan
-,KP2KP Pacitan
-,KP2KP Sumenep
-,KP2KP Wlingi
-,KP2KP Nganjuk
-,KP2KP Bangil
-,KP2KP Lumajang
-,KP2KP Kraksaan
-,KP2KP Bondowoso
-,KP2KP Wonogiri
-,KP2KP Sragen
-,KP2KP Wonosobo
-,KP2KP Pulau Pramuka
-,KP2KP Rangkas Bitung
-,KP2KP Banjar
-,KP2KP Pelabuhan Ratu
-,KP2KP Sumber
-,KP2KP Bumiayu
-,KP2KP Purwodadi 
-,KP2KP Rembang
-,KP2KP Ungaran
-,KP2KP Banjarnegara
-,KP2KP Trenggalek
-,KP2KP Tanjung Batu
-,KP2KP Jantho
-,KP2KP Sampang
-,KP2KP Tliamuta
-,KP2KP Majalengka
-00-,KP2KP Sekadau
-00-,KP2KP Saumlaki
-00-,KP2KP Sarmi
-00-,KP2KP Sambas
-00-,KP2KP Sanana
-00-,KP2KP Wamena
-00-,KP2KP Rantau
-00-,KP2KP Putussibau
-00-,KP2KP Puruk Cahu
-00-,KP2KP Pulang Pisau
-00-,KP2KP Serui
-00-,KP2KP Soe
-00-,KP2KP Buntok
-00-,KP2KP Tual
-00-,KP2KP Tomohon
-00-,KP2KP Tidore
-00-,KP2KP Tondano
-00-,KP2KP Teminabuan
-00-,KP2KP Tamiang Layang
-00-,KP2KP Talaud
-00-,KP2KP Taiwang
-00-,KP2KP Sukamara
-00-,KP2KP Selong
-00-,KP2KP Waikabubak
-00-,KP2KP Kandangan
-00-,KP2KP Kaimana
-00-,KP2KP kalabahi
-000,KP2KP Makale
-000,KP2KP Raha
-000,KP2KP Sidrap
-000,KP2KP Muko-Muko
-000,KP2KP Bintuhan
-000,KP2KP Manna
-000,KP2KP Baradatu
-000,KP2KP Menggala
-000,KP2KP Liwa
-000,KP2KP Sukadana
-000,KP2KP Masamba
-000,KP2KP Benteng
-000,KP2KP Sungguminasa
-000,KP2KP Tobiali
-000,KP2KP Tugu Mulyo
-000,KP2KP Tebing Tinggi
-000,KP2KP Inderalaya
-000,KP2KP Pangkajene
-000,KP2KP Sangatta
-000,KP2KP Tanah Grogot
-000,KP2KP Sendawar
-000,KP2KP Tanjung Selor
-000,KP2KP Malinau
-000,KP2KP Nunukan
-000,KP2KP Bandarjaya
-000,KP2KP Pringsewu
-000,KP2KP Kota Agung
-000,KP2KP Sengeti
-000,KP2KP Muara Bulian
-000,KP2KP Batu Sangkar
-000,KP2KP Sawahlunto
-000,KP2KP Pedang Aro
-000,KP2KP Muaro Sijunjung
-000,KP2KP Kotabaru
-000,KP2KP Malili
-000,KP2KP Barru/Pinrang
-000,KP2KP Enrekang
-000,KP2KP Muara Tebo
-000,KP2KP Muara Sabak
-000,KP2KP Pasangkayu
-000,KP2KP Kalianda
-000,KP2KP Bontosunggu
-000,KP2KP Watansoppeng
-000,KP2KP Sengkang
-000,KP2KP Sinjai
-000,KP2KP Lasusua
-000,KP2KP Rumbia
-000,KP2KP Andoolo/Unaaha
-000,KP2KP Polewali
-000,KP2KP Mamasa
-000,KP2KP Takalar
-000,KP2KP Koba
-000,KP2KP Kasongan
-000,KP2KP Nanga Bulik
-000,KP2KP Nangapinoh
-000,KP2KP Ngabang
-000,KP2KP Parigi
-000,KP2KP Paringin
-000,KP2KP Pelaihari
-000,KP2KP Genung
-000,KP2KP Fak-Fak
-000,KP2KP Dompu
-000,KP2KP Dobo
-000,KP2KP Buol
-000,KP2KP Namlea
-000,KP2KP Nabire
-000,KP2KP Mempawah
-000,KP2KP Kuala Kapuas
-000,KP2KP Kuala Kurun
-000,KP2KP Labuanbajo
-000,KP2KP Labuha
-000,KP2KP Larantuka
-000,KP2KP Limboto
-000,KP2KP Maba
-000,KP2KP Marabahan
-000,KP2KP Marisa
-000,KP2KP Martapura
-000,KP2KP Masohi
-000,KP2KP Bungku
-000,KP2KP Bula
-000,KP2KP Sibuhuan
-000,KP2KP Manggar
-000,KP2KP Sungai Liat
-000,KP2KP Amuntai
-000,KP2KP Mentok
-000,KP2KP Amurang
-000,KP2KP Ba'a (Kab. Rote Ndao)
-000,KP2KP Bajawa
-000,KP2KP Bintuni
-000,KP2KP Bengkayang
-000,KP2KP Kuala Pembuang
-000,KP2KP Banggai
-000,KP2KP Kepahiang
-000,KP2KP Banawa
-115,KP2KP Tanjung Balai
-116,KP2KP Kualuh Hulu
-116,KP2KP Kota Pinang
-117,KP2KP Perdagangan
-118,KP2KP Panyabungan
-126,KP2KP Pandan
-126,KP2KP Gunung Sitoli
-127,KP2KP Tarutung
-127,KP2KP Dolok Sanggul
-128,KP2KP Sidikalang
-201,KP2KP Tua Pejat
-201,KP2KP Painan
-201,KP2KP Pariaman
-202,KP2KP Padang Panjang
-202,KP2KP Lubuk Sikaping
-202,KP2KP Lubuk Basung
-202,KP2KP Simpang Ampat
-203,KP2KP Kotabaru
-302,KP2KP Martapura (Kab.OKI Timur)
-302,KP2KP Muaradua (Kab. OKU Selatan)
-309,KP2KP Pagar Alam
-313,KP2KP Muara Enim
-314,KP2KP Pangkalan Balai
-332,KP2KP Rimbo Bujang
-333,KP2KP Sungai Penuh
-333,KP2KP Sarolangun
+KODE_KPP;NAMA_KPP;;
+010;KanWil DJP Nanggroe Aceh Darussalam;;
+020;KanWil DJP Sumatera Utara I;;
+030;KanWil DJP Sumatera Utara II;;
+040;KanWil DJP Riau;;
+050;KanWil DJP Sumatra Barat dan Jambi;;
+060;KanWil DJP Sumatra Selatan dan Kep. Bangka Belitung;;
+070;KanWil DJP Bengkulu dan Lampung;;
+080;KanWil DJP Jakarta Pusat;;
+090;KanWil DJP Jakarta Barat;;
+100;KanWil DJP Jakarta Selatan I;;
+110;KanWil DJP Jakarta Timur;;
+120;KanWil DJP Jakarta Utara;;
+130;KanWil DJP Jakarta Khusus;;
+140;KanWil DJP Banten;;
+150;KanWil DJP Jawa Barat I;;
+160;KanWil DJP Jawa Barat II;;
+170;KanWil DJP Jawa Tengah I;;
+180;KanWil DJP Jawa Tengah II;;
+190;KanWil DJP Daerah Istimewa Yogyakarta;;
+200;KanWil DJP Jawa Timur I;;
+210;KanWil DJP Jawa Timur II;;
+220;KanWil DJP Jawa Timur III;;
+230;KanWil DJP Kalimantan Barat;;
+240;KanWil DJP Kalimantan Selatan Dan Kalimantan Tengah;;
+250;KanWil DJP Kalimantan Timur dan Utara;;
+260;KanWil DJP Sulawesi Selatan; Barat dan Tenggara;
+270;KanWil DJP Sulawesi Utara; Tengah; Gorontalo Dan Maluku Utara (SULUTTENGGO DAN MALUT) 
+280;KanWil DJP Bali;;
+290;KanWil DJP Nusa Tenggara;;
+300;KanWil DJP Papua Dan Maluku;;
+310;KanWil DJP Wajib Pajak Besar;;
+320;KanWil DJP JAKARTA SELATAN II;;
+330;KanWil DJP JAWA BARAT III;;
+340;KanWil  DJP KEPULAUAN RIAU ;;
+001;KPP Pratama Jakarta Matraman;;
+002;KPP Pratama Jakarta Jatinegara;;
+003;KPP Pratama Jakarta Pulogadung;;
+004;KPP Pratama Jakarta Cakung Satu;;
+005;KPP Pratama Jakarta Kramat Jati;;
+006;KPP Pratama Jakarta Cakung Dua;;
+007;KPP Madya Jakarta Timur;;
+008;KPP Pratama Jakarta Duren Sawit;;
+009;KPP Pratama Jakarta Pasar Rebo;;
+011;KPP Pratama Jakarta Setiabudi Satu;;
+012;KPP Pratama Jakarta Kebayoran Baru Satu;;
+013;KPP Pratama Jakarta Kebayoran Lama;;
+014;KPP Pratama Jakarta Mampang Prapatan;;
+015;KPP Pratama Jakarta Tebet;;
+016;KPP Pratama Jakarta Cilandak;;
+017;KPP Pratama Jakarta Pasar Minggu;;
+018;KPP Pratama Jakarta Setiabudi Dua;;
+019;KPP Pratama Jakarta Kebayoran Baru Dua;;
+021;KPP Pratama Jakarta Menteng Satu;;
+022;KPP Pratama Jakarta Tanah Abang Satu;;
+023;KPP Pratama Jakarta Senen;;
+024;KPP Pratama Jakarta Cempaka Putih;;
+025;KPP Pratama Jakarta Gambir Satu;;
+026;KPP Pratama Jakarta Sawah Besar Satu;;
+027;KPP Pratama Jakarta Kemayoran;;
+028;KPP Pratama Jakarta Gambir Dua;;
+029;KPP Pratama Jakarta Gambir Tiga;;
+031;KPP Pratama Jakarta Palmerah;;
+032;KPP Pratama Jakarta Tamansari Satu;;
+033;KPP Pratama Jakarta Tambora;;
+034;KPP Pratama Jakarta Cengkareng;;
+035;KPP Pratama Jakarta Kebon Jeruk Satu;;
+036;KPP Pratama Jakarta Grogol Petamburan;;
+037;KPP Pratama Jakarta Tamansari Dua;;
+038;KPP Madya Jakarta Barat;;
+039;KPP Pratama Jakarta Kebon Jeruk Dua ;;
+041;KPP Pratama Jakarta Penjaringan;;
+042;KPP Pratama Jakarta Tanjung Priok;;
+043;KPP Pratama Jakarta Kelapa Gading;;
+044;KPP Pratama Jakarta Pademangan;;
+045;KPP Pratama Jakarta Koja;;
+046;KPP Madya Jakarta Utara;;
+047;KPP Pratama Jakarta Pluit;;
+048;KPP Pratama Jakarta Sunter;;
+051;KPP Wajib Pajak Besar Tiga;;
+052;KPP Penanaman Modal Asing Satu;;
+053;KPP Badan dan Orang Asing;;
+054;KPP Perusahaan Masuk Bursa;;
+055;KPP Penanaman Modal Asing Dua;;
+056;KPP Penanaman Modal Asing Tiga;;
+057;KPP Penanaman Modal Asing Empat;;
+058;KPP Penanaman Modal Asing Lima;;
+059;KPP Penanaman Modal Asing Enam;;
+061;KPP Pratama Jakarta Pancoran;;
+062;KPP Madya Jakarta Selatan I;;
+063;KPP Pratama Jakarta Setiabudi Tiga;;
+064;KPP Pratama Jakarta Kebayoran Baru Tiga;;
+065;KPP Pratama Jakarta Kebayoran Baru Empat;;
+066;KPP Pratama Jakarta Pesanggrahan;;
+067;KPP Pratama Jakarta Setia Budi Empat;;
+071;KPP Pratama Jakarta Menteng Dua;;
+072;KPP Pratama Jakarta Tanah Abang Dua;;
+073;KPP Madya Jakarta Pusat;;
+074;KPP Pratama Jakarta Gambir Empat;;
+075;KPP Pratama Jakarta Sawah Besar Dua;;
+076;KPP Pratama Jakarta Menteng Tiga;;
+077;KPP Pratama Jakarta Tanah Abang Tiga;;
+081;KPP Minyak dan Gas Bumi;;
+085;KPP Pratama Jakarta Kalideres;;
+086;KPP Pratama Jakarta Kembangan;;
+091;KPP WP Besar Satu;;
+092;KPP Wajib Pajak Besar Dua;;
+093;KPP Wajib Pajak Besar Empat;;
+101;KPP Pratama Banda Aceh;;
+102;KPP Pratama Lhokseumawe;;
+103;KPP Pratama Meulaboh;;
+104;KPP Pratama Bireuen;;
+105;KPP Pratama Langsa;;
+106;KPP Pratama Tapak Tuan;;
+107;KPP Pratama Subulussalam;;
+108;KPP Pratama Aceh Besar;;
+111;KPP Pratama Medan Barat;;
+112;KPP Pratama Medan Belawan;;
+113;KPP Pratama Medan Timur;;
+114;KPP Pratama Tebing Tinggi;;
+115;KPP Pratama Kisaran;;
+116;KPP Pratama Rantau Prapat;;
+117;KPP Pratama Pematang Siantar;;
+118;KPP Pratama Padang Sidempuan;;
+119;KPP Pratama Binjai;;
+121;KPP Pratama Medan Polonia;;
+122;KPP Pratama Medan Kota;;
+123;KPP Madya Medan;;
+124;KPP Pratama Medan Petisah;;
+125;KPP Pratama Lubuk Pakam;;
+126;KPP Pratama Sibolga;;
+127;KPP Pratama Balige ;;
+128;KPP Pratama Kabanjahe;;
+201;KPP Pratama Padang Satu;;
+202;KPP Pratama Bukittinggi;;
+203;KPP Pratama Solok;;
+204;KPP Pratama Payakumbuh;;
+205;KPP Pratama Padang Dua;;
+211;KPP Pratama Pekanbaru Senapelan;;
+212;KPP Pratama Dumai;;
+213;KPP Pratama Rengat;;
+214;KPP Pratama Tanjung Pinang;;
+215;KPP Pratama Batam;;
+215;KPP Pratama Batam Utara;;
+216;KPP Pratama Pekanbaru Tampan;;
+217;KPP Madya Batam;;
+218;KPP Madya Pekanbaru;;
+219;KPP Pratama Bengkalis;;
+221;KPP Pratama Bangkinang;;
+222;KPP Pratama Pangkalan Kerinci;;
+223;KPP Pratama Tanjung Balai Karimun;;
+224;KPP Pratama Bintan;;
+225;KPP Pratama Batam Selatan;;
+301;KPP Pratama Palembang Ilir Timur;;
+302;KPP Pratama Baturaja;;
+303;KPP Pratama Lubuk Linggau;;
+304;KPP Pratama Pangkal Pinang;;
+305;KPP Pratama Tanjung Pandan;;
+306;KPP Pratama Palembang Seberang Ulu;;
+307;KPP Pratama Palembang Ilir Barat;;
+308;KPP Madya Palembang;;
+309;KPP Pratama Lahat;;
+311;KPP Pratama Bengkulu;;
+312;KPP Pratama Kayu Agung;;
+313;KPP Pratama Prabumulih;;
+314;KPP Pratama Sekayu;;
+315;KPP Pratama Bangka;;
+321;KPP Pratama Metro;;
+322;KPP Pratama Tanjung Karang;;
+323;KPP Pratama Kedaton;;
+324;KPP Pratama Teluk Betung;;
+325;KPP Pratama Natar;;
+326;KPP Pratama Kotabumi;;
+327;KPP Pratama Curup;;
+328;KPP Pratama Argamakmur;;
+331;KPP Pratama Jambi Telanaipura;;
+332;KPP Pratama Muara Bungo;;
+333;KPP Pratama Bangko;;
+334;KPP Pratama Kuala Tungkal;;
+335;KPP Pratama Jambi Pelayangan;;
+401;KPP Pratama Serang Barat;;
+402;KPP Pratama Tangerang Barat;;
+403;KPP Pratama Cibinong;;
+404;KPP Pratama Bogor;;
+405;KPP Pratama Sukabumi;;
+406;KPP Pratama Cianjur;;
+407;KPP Pratama Bekasi Utara;;
+408;KPP Pratama Karawang Utara;;
+409;KPP Pratama Purwakarta;;
+411;KPP Pratama Serpong;;
+412;KPP Pratama Depok Cimanggis;;
+413;KPP Pratama Cikarang Selatan;;
+414;KPP Pratama Cikarang Utara;;
+415;KPP Madya Tangerang;;
+416;KPP Pratama Tangerang Timur;;
+417;KPP Pratama Cilegon;;
+418;KPP Pratama Kosambi;;
+419;KPP Pratama Pandeglang;;
+421;KPP Pratama Cimahi;;
+422;KPP Pratama Bandung Tegallega;;
+423;KPP Pratama Bandung Cibeunying;;
+424;KPP Pratama Bandung Karees;;
+425;KPP Pratama Tasikmalaya;;
+426;KPP Pratama Cirebon Satu;;
+427;KPP Pratama Bekasi Barat;;
+428;KPP Pratama Bandung Bojonagara;;
+429;KPP Pratama Bandung Cicadas;;
+431;KPP Madya Bekasi;;
+432;KPP Pratama Bekasi Selatan;;
+433;KPP Pratama Karawang Selatan;;
+434;KPP Pratama Ciawi;;
+435;KPP Pratama Cibitung;;
+436;KPP Pratama Cileungsi;;
+437;KPP Pratama Indramayu;;
+438;KPP Pratama Kuningan;;
+439;KPP Pratama Subang;;
+441;KPP Madya Bandung;;
+442;KPP Pratama Ciamis;;
+443;KPP Pratama Garut;;
+444;KPP Pratama Majalaya;;
+445;KPP Pratama Soreang;;
+446;KPP Pratama Sumedang;;
+447;KPP Pratama Pondok Gede;;
+448;KPP Pratama Depok Sawangan;;
+449;KPP Madya Bogor;;
+451;KPP Pratama Tigaraksa;;
+452;KPP Pratama Cikupa;;
+453;KPP Pratama Pondok Aren;;
+454;KPP Pratama Serang Timur;;
+455;KPP Cirebon Dua;;
+501;KPP Pratama Tegal;;
+502;KPP Pratama Pekalongan;;
+503;KPP Pratama Semarang Barat;;
+504;KPP Pratama Semarang Timur;;
+505;KPP Pratama Salatiga;;
+506;KPP Pratama Kudus;;
+507;KPP Pratama Pati;;
+508;KPP Pratama Semarang Selatan;;
+509;KPP Pratama Semarang Tengah Dua;;
+511;KPP Madya Semarang;;
+512;KPP Pratama Semarang Tengah Satu;;
+513;KPP Pratama Batang;;
+514;KPP Pratama Blora;;
+515;KPP Pratama Demak;;
+516;KPP Pratama Jepara;;
+517;KPP Pratama Semarang Candisari;;
+518;KPP Pratama Semarang Gayamsari;;
+521;KPP Pratama Purwokerto;;
+522;KPP Pratama Cilacap;;
+523;KPP Pratama Kebumen;;
+524;KPP Pratama Magelang;;
+525;KPP Pratama Klaten;;
+526;KPP Pratama Surakarta;;
+527;KPP Pratama Boyolali;;
+528;KPP Pratama Karanganyar;;
+529;KPP Pratama Purbalingga;;
+531;KPP Pratama Purworejo;;
+532;KPP Pratama Sukoharjo;;
+533;KPP Pratama Temanggung;;
+541;KPP Pratama Yogyakarta;;
+542;KPP Pratama Sleman;;
+543;KPP Pratama Bantul;;
+544;KPP Pratama Wates;;
+545;KPP Pratama Wonosari;;
+601;KPP Pratama Bojonegoro;;
+602;KPP Pratama Mojokerto;;
+603;KPP Pratama Sidoarjo Barat;;
+604;KPP Pratama Surabaya Sukomanunggal;;
+605;KPP Pratama Surabaya Krembangan;;
+606;KPP Pratama Surabaya Gubeng;;
+607;KPP Pratama Surabaya Tegalsari;;
+608;KPP Pratama Pamekasan;;
+609;KPP Pratama Surabaya Wonocolo;;
+611;KPP Pratama Surabaya Genteng;;
+612;KPP Pratama Gresik Utara;;
+613;KPP Pratama Surabaya Pabean Cantikan;;
+614;KPP Pratama Surabaya Sawahan;;
+615;KPP Pratama Surabaya Rungkut;;
+616;KPP Pratama Surabaya Simokerto;;
+617;KPP Pratama Sidoarjo Selatan;;
+618;KPP Pratama Surabaya Karangpilang;;
+619;KPP Pratama Surabaya Mulyorejo;;
+621;KPP Pratama Madiun;;
+622;KPP Pratama Kediri;;
+623;KPP Pratama Malang Selatan;;
+624;KPP Pratama Pasuruan;;
+625;KPP Pratama Probolinggo;;
+626;KPP Pratama Jember;;
+627;KPP Pratama Banyuwangi;;
+628;KPP Pratama Batu;;
+629;KPP Pratama Tulungagung;;
+631;KPP Madya Surabaya;;
+641;KPP Madya Sidoarjo;;
+642;KPP Pratama Gresik Selatan;;
+643;KPP Pratama Sidoarjo Utara;;
+644;KPP Pratama Bangkalan;;
+645;KPP Pratama Lamongan;;
+646;KPP Pratama Ngawi;;
+647;KPP Pratama Ponorogo;;
+648;KPP Pratama Tuban;;
+649;KPP Pratama Jombang;;
+651;KPP Madya Malang;;
+652;KPP Pratama Malang Utara;;
+653;KPP Pratama Blitar;;
+654;KPP Pratama Kepanjen;;
+655;KPP Pratama Pare;;
+656;KPP Pratama Situbondo;;
+657;KPP Pratama Singosari;;
+701;KPP Pratama Pontianak Barat;;
+702;KPP Pratama Singkawang;;
+703;KPP Pratama Ketapang;;
+704;KPP Pratama Mempawah;;
+705;KPP Pratama Sanggau;;
+706;KPP Pratama Sintang;;
+707;KPP Pratama Pontianak Timur;;
+711;KPP Pratama Palangkaraya;;
+712;KPP Pratama Sampit;;
+713;KPP Pratama Pangkalan Bun;;
+714;KPP Pratama Muara Teweh;;
+721;KPP Pratama Balikpapan Barat;;
+722;KPP Pratama Samarinda Ilir;;
+723;KPP Pratama Tarakan;;
+724;KPP Pratama Bontang;;
+725;KPP Madya Balikpapan;;
+726;KPP Pratama Penajam;;
+727;KPP Pratama Tanjung Redeb;;
+728;KPP Pratama Tenggarong;;
+729;KPP Pratama Balikpapan Timur;;
+731;KPP Pratama Banjarmasin Selatan;;
+732;KPP Pratama Banjarbaru;;
+733;KPP Pratama Barabai;;
+734;KPP Pratama Batulicin;;
+735;KPP Pratama Tanjung;;
+736;KPP Pratama Banjarmasin Utara;;
+801;KPP Pratama Makassar Utara;;
+802;KPP Pratama Parepare;;
+803;KPP Pratama Palopo;;
+804;KPP Pratama Makassar Barat;;
+805;KPP Pratama Makassar Selatan;;
+806;KPP Pratama Bulukumba;;
+807;KPP Pratama Bantaeng;;
+808;KPP Pratama Watampone;;
+809;KPP Pratama Maros;;
+811;KPP Pratama Kendari;;
+812;KPP Madya Makassar;;
+813;KPP Pratama Majene;;
+814;KPP Pratama Mamuju;;
+815;KPP Pratama Kolaka;;
+816;KPP Pratama Bau-Bau;;
+821;KPP Pratama Manado;;
+822;KPP Pratama Gorontalo;;
+823;KPP Pratama Bitung;;
+824;KPP Pratama Kotamobagu;;
+825;KPP Pratama Tahuna;;
+831;KPP Pratama Palu;;
+832;KPP Pratama Luwuk;;
+833;KPP Pratama Poso;;
+834;KPP Pratama Toli-Toli;;
+901;KPP Pratama Denpasar Barat;;
+902;KPP Pratama Singaraja;;
+903;KPP Pratama Denpasar Timur;;
+904;KPP Madya Denpasar;;
+905;KPP Pratama Badung Selatan;;
+906;KPP Pratama Badung Utara;;
+907;KPP Pratama Gianyar;;
+908;KPP Pratama Tabanan;;
+911;KPP Pratama Mataram Barat;;
+912;KPP Pratama Raba Bima;;
+913;KPP Pratama Sumbawa Besar;;
+914;KPP Pratama Mataram Timur;;
+915;KPP Pratama Praya;;
+921;KPP Pratama Maumere;;
+922;KPP Pratama Kupang;;
+923;KPP Pratama Ende;;
+924;KPP Pratama Ruteng;;
+925;KPP Pratama Atambua;;
+926;KPP Pratama Waingapu;;
+941;KPP Pratama Ambon;;
+942;KPP Pratama Ternate;;
+943;KPP Pratama Tobelo;;
+951;KPP Pratama Sorong;;
+952;KPP Pratama Jayapura;;
+953;KPP Pratama Timika;;
+954;KPP Pratama Biak;;
+955;KPP Pratama Manokwari;;
+956;KPP Pratama Merauke;;
+;KP2KP Kutacane;;
+;KP2KP Karang Baru;;
+;KP2KP Blangkejeran;;
+;KP2KP Lhoksukon;;
+;KP2KP Calang;;
+;KP2KP Blang Pidie;;
+;KP2KP Piru;;
+;KP2KP Suka Makmur;;
+;KP2KP Singkil;;
+;KP2KP Kerobokan;;
+;KP2KP Takengon;;
+;KP2KP Negara;;
+;KP2KP Sigli;;
+;KP2KP Amlapura;;
+;KP2KP Ubud;;
+;KP2KP Sabang;;
+;KP2KP Siak Sri Indrapura;;
+;KP2KP Bagan Siapiapi;;
+;KP2KP Daik;;
+;KP2KP Duri;;
+;KP2KP Pasir Pangarayan;;
+;KP2KP Ranai;;
+;KP2KP Selat Panjang;;
+;KP2KP Sinabang;;
+;KP2KP Teluk Kuantan;;
+;KP2KP Rimba Raya;;
+;KP2KP Tembilahan;;
+;KP2KP Caruban;;
+;KP2KP Magetan;;
+;KP2KP Pacitan;;
+;KP2KP Sumenep;;
+;KP2KP Wlingi;;
+;KP2KP Nganjuk;;
+;KP2KP Bangil;;
+;KP2KP Lumajang;;
+;KP2KP Kraksaan;;
+;KP2KP Bondowoso;;
+;KP2KP Wonogiri;;
+;KP2KP Sragen;;
+;KP2KP Wonosobo;;
+;KP2KP Pulau Pramuka;;
+;KP2KP Rangkas Bitung;;
+;KP2KP Banjar;;
+;KP2KP Pelabuhan Ratu;;
+;KP2KP Sumber;;
+;KP2KP Bumiayu;;
+;KP2KP Purwodadi ;;
+;KP2KP Rembang;;
+;KP2KP Ungaran;;
+;KP2KP Banjarnegara;;
+;KP2KP Trenggalek;;
+;KP2KP Tanjung Batu;;
+;KP2KP Jantho;;
+;KP2KP Sampang;;
+;KP2KP Tliamuta;;
+;KP2KP Majalengka;;
+00-;KP2KP Sekadau;;
+00-;KP2KP Saumlaki;;
+00-;KP2KP Sarmi;;
+00-;KP2KP Sambas;;
+00-;KP2KP Sanana;;
+00-;KP2KP Wamena;;
+00-;KP2KP Rantau;;
+00-;KP2KP Putussibau;;
+00-;KP2KP Puruk Cahu;;
+00-;KP2KP Pulang Pisau;;
+00-;KP2KP Serui;;
+00-;KP2KP Soe;;
+00-;KP2KP Buntok;;
+00-;KP2KP Tual;;
+00-;KP2KP Tomohon;;
+00-;KP2KP Tidore;;
+00-;KP2KP Tondano;;
+00-;KP2KP Teminabuan;;
+00-;KP2KP Tamiang Layang;;
+00-;KP2KP Talaud;;
+00-;KP2KP Taiwang;;
+00-;KP2KP Sukamara;;
+00-;KP2KP Selong;;
+00-;KP2KP Waikabubak;;
+00-;KP2KP Kandangan;;
+00-;KP2KP Kaimana;;
+00-;KP2KP kalabahi;;
+000;KP2KP Makale;;
+000;KP2KP Raha;;
+000;KP2KP Sidrap;;
+000;KP2KP Muko-Muko;;
+000;KP2KP Bintuhan;;
+000;KP2KP Manna;;
+000;KP2KP Baradatu;;
+000;KP2KP Menggala;;
+000;KP2KP Liwa;;
+000;KP2KP Sukadana;;
+000;KP2KP Masamba;;
+000;KP2KP Benteng;;
+000;KP2KP Sungguminasa;;
+000;KP2KP Tobiali;;
+000;KP2KP Tugu Mulyo;;
+000;KP2KP Tebing Tinggi;;
+000;KP2KP Inderalaya;;
+000;KP2KP Pangkajene;;
+000;KP2KP Sangatta;;
+000;KP2KP Tanah Grogot;;
+000;KP2KP Sendawar;;
+000;KP2KP Tanjung Selor;;
+000;KP2KP Malinau;;
+000;KP2KP Nunukan;;
+000;KP2KP Bandarjaya;;
+000;KP2KP Pringsewu;;
+000;KP2KP Kota Agung;;
+000;KP2KP Sengeti;;
+000;KP2KP Muara Bulian;;
+000;KP2KP Batu Sangkar;;
+000;KP2KP Sawahlunto;;
+000;KP2KP Pedang Aro;;
+000;KP2KP Muaro Sijunjung;;
+000;KP2KP Kotabaru;;
+000;KP2KP Malili;;
+000;KP2KP Barru/Pinrang;;
+000;KP2KP Enrekang;;
+000;KP2KP Muara Tebo;;
+000;KP2KP Muara Sabak;;
+000;KP2KP Pasangkayu;;
+000;KP2KP Kalianda;;
+000;KP2KP Bontosunggu;;
+000;KP2KP Watansoppeng;;
+000;KP2KP Sengkang;;
+000;KP2KP Sinjai;;
+000;KP2KP Lasusua;;
+000;KP2KP Rumbia;;
+000;KP2KP Andoolo/Unaaha;;
+000;KP2KP Polewali;;
+000;KP2KP Mamasa;;
+000;KP2KP Takalar;;
+000;KP2KP Koba;;
+000;KP2KP Kasongan;;
+000;KP2KP Nanga Bulik;;
+000;KP2KP Nangapinoh;;
+000;KP2KP Ngabang;;
+000;KP2KP Parigi;;
+000;KP2KP Paringin;;
+000;KP2KP Pelaihari;;
+000;KP2KP Genung;;
+000;KP2KP Fak-Fak;;
+000;KP2KP Dompu;;
+000;KP2KP Dobo;;
+000;KP2KP Buol;;
+000;KP2KP Namlea;;
+000;KP2KP Nabire;;
+000;KP2KP Mempawah;;
+000;KP2KP Kuala Kapuas;;
+000;KP2KP Kuala Kurun;;
+000;KP2KP Labuanbajo;;
+000;KP2KP Labuha;;
+000;KP2KP Larantuka;;
+000;KP2KP Limboto;;
+000;KP2KP Maba;;
+000;KP2KP Marabahan;;
+000;KP2KP Marisa;;
+000;KP2KP Martapura;;
+000;KP2KP Masohi;;
+000;KP2KP Bungku;;
+000;KP2KP Bula;;
+000;KP2KP Sibuhuan;;
+000;KP2KP Manggar;;
+000;KP2KP Sungai Liat;;
+000;KP2KP Amuntai;;
+000;KP2KP Mentok;;
+000;KP2KP Amurang;;
+000;KP2KP Ba'a (Kab. Rote Ndao);;
+000;KP2KP Bajawa;;
+000;KP2KP Bintuni;;
+000;KP2KP Bengkayang;;
+000;KP2KP Kuala Pembuang;;
+000;KP2KP Banggai;;
+000;KP2KP Kepahiang;;
+000;KP2KP Banawa;;
+115;KP2KP Tanjung Balai;;
+116;KP2KP Kualuh Hulu;;
+116;KP2KP Kota Pinang;;
+117;KP2KP Perdagangan;;
+118;KP2KP Panyabungan;;
+126;KP2KP Pandan;;
+126;KP2KP Gunung Sitoli;;
+127;KP2KP Tarutung;;
+127;KP2KP Dolok Sanggul;;
+128;KP2KP Sidikalang;;
+201;KP2KP Tua Pejat;;
+201;KP2KP Painan;;
+201;KP2KP Pariaman;;
+202;KP2KP Padang Panjang;;
+202;KP2KP Lubuk Sikaping;;
+202;KP2KP Lubuk Basung;;
+202;KP2KP Simpang Ampat;;
+203;KP2KP Kotabaru;;
+302;KP2KP Martapura (Kab.OKI Timur);;
+302;KP2KP Muaradua (Kab. OKU Selatan);;
+309;KP2KP Pagar Alam;;
+313;KP2KP Muara Enim;;
+314;KP2KP Pangkalan Balai;;
+332;KP2KP Rimbo Bujang;;
+333;KP2KP Sungai Penuh;;
+333;KP2KP Sarolangun;;

@@ -2,8 +2,8 @@ const express = require('express')
 const path = require('path')
 const app = express()
 const hbs = require('hbs')
-const multer = require('multer')
-const upload = multer()
+const multer = require('multer');
+const upload = multer();
 const {Trie} = require('regexgen');
 
 app.set('views',path.join(__dirname,'views'))
